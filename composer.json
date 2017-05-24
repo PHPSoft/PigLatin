@@ -1,10 +1,8 @@
 {
-  "name": "andriytest/PigLatin",
-  "type": "package",
-  "description": "PigLatin test task",
+  "name": "andriytest/piglatin",
+  "description": "A PHP test piglatin package",
   "keywords": [
-    "andriytest",
-    "PigLatin"
+    "piglatin", "test"
   ],
   "homepage": "https://github.com/PHPSoft/PigLatin",
   "license": "MIT",
@@ -16,14 +14,14 @@
     }
   ],
   "require": {
-    "php" : "~5.6|~7.0"
+    "php" : ">=5.3.0"
   },
   "require-dev": {
-    "phpunit/phpunit" : "~4.0||~5.0||~6.0"
+    "phpunit/phpunit" : "4.*"
   },
   "autoload": {
     "psr-4": {
-      "andriytest\\PigLatin\\": "src"
+      "phpsoft\\piglatin\\": "src"
     }
   }
 }
