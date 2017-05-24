@@ -12,7 +12,7 @@ class PigLatin
 
     public function __construct()
     {
-
+        echo "got here!!!";
 
     }
 

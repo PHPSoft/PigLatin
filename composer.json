@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "phpsoft\\piglatin\\": "src/piglatin/"
+      "phpsoft\\piglatin\\": "src/"
     }
   }
 }
