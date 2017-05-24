@@ -1,14 +1,14 @@
 {
   "name": "phpsoft/piglatin",
   "description": "PigLatin PHP package - Andriy test",
-  "keywords": ["piglatin", "piglatin packahe"],
+  "keywords": ["piglatin", "piglatin package"],
   "homepage": "https://github.com/phpsoft/piglatin",
   "license": "GNU General Public v2.0",
   "type": "library",
   "authors": [
     {
       "name": "Andriy Danylyuk",
-      "email": ""
+      "email": "andrew.phpsoft@googlemail.com"
     }
   ],
   "require": {
@@ -18,6 +18,6 @@
     "phpunit/phpunit": "4.7.3"
   },
   "autoload": {
-    "psr-4": {"PigLatin\\": "src/PigLatin"}
+    "psr-4": {"PigLatin\\": "src/piglatin"}
   }
 }
