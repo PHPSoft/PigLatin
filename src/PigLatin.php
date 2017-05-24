@@ -1,5 +1,5 @@
 <?php
-namespace phpsoft\piglatin;
+namespace phpsoft\PigLatin;
 
 /**
  * Created by PhpStorm.
