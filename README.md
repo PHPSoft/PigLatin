@@ -14,9 +14,9 @@ composer.json:
 ```
 
 Or command line:
-
+```
 composer require andriytest/piglatin
-
+```
 
 #Usadge
 
